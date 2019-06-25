@@ -1,1 +1,2 @@
-Hi first trial program
+Hi first trial program.
+I am modifying it now for practice.
